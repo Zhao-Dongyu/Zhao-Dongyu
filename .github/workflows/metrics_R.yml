@@ -1,0 +1,30 @@
+# 具体配置文档地址 https://github.com/lowlighter/metrics/blob/master/action.yml
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+
+name: GitHub metrics_R
+on:
+  # Schedule updates (each day)
+  schedule: 
+      - cron: "0 0 * * 0"
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  # push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # base metrics
+      - name: base_metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: base_metrics_R.svg
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
