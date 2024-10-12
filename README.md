@@ -40,9 +40,11 @@
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
-Visitors Clustrmaps
+---
 
-<div style="width: 300px; height: 300px;">
+<h2 align="center">Visitors Clustrmaps</h2>
+
+<div style="width: 300px; height: 300px; text-align: center; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9gQN_jPgwCHZpYS_q85TohsRPxXAcaHKasVmKGtQPbk"></script>
 </div>
 
