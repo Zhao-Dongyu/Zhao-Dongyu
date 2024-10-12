@@ -47,9 +47,12 @@
 <!-- <div style="width: 300px; height: 300px; text-align: center; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9gQN_jPgwCHZpYS_q85TohsRPxXAcaHKasVmKGtQPbk"></script>
 </div> -->
-<div style="width: 300px; height: 300px;">
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9gQN_jPgwCHZpYS_q85TohsRPxXAcaHKasVmKGtQPbk"></script>
+
+<!-- <div style="width: 300px; height: 300px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9gQN_jPgwCHZpYS_q85TohsRPxXAcaHKasVmKGtQPbk"></script>
-</div>
+</div> -->
 
 <!--
 **ZhaoDongyu-AK47/ZhaoDongyu-AK47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
