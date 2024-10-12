@@ -44,7 +44,9 @@
 
 <h2 align="center">Visitors Clustrmaps</h2>
 
-<iframe id="clustrmaps-frame" src="//clustrmaps.com/globe.js?d=9gQN_jPgwCHZpYS_q85TohsRPxXAcaHKasVmKGtQPbk" width="300" height="300" style="border:none;"></iframe>
+<div style="width: 300px; height: 300px; text-align: center;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=9gQN_jPgwCHZpYS_q85TohsRPxXAcaHKasVmKGtQPbk"></script>
+</div>
 
 <!--
 **ZhaoDongyu-AK47/ZhaoDongyu-AK47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
