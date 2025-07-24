@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm ZhaoDongyu :)</h2>
+<h2 align="center">👋 Hi, I'm ZhaoDongyu [ˈdʒaʊ ˈdʊŋ ˈyʊ] :)</h2>
 
 <!-- 贪吃蛇代码贡献图 -->
 
