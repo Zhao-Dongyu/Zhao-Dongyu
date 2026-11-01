@@ -1,5 +1,33 @@
 <h2 align="center">👋 Hi, I'm ZhaoDongyu [ˈdʒaʊ ˈdʊŋ ˈyʊ] :)</h2>
 
+<p align="center"><i>Building efficient AI systems from edge inference to embodied intelligence.</i></p>
+
+## Expertise
+
+- **Embodied AI:** robotics, robot learning, vision-language-action models, robot deployment
+- **Edge AI:** embedded machine learning, model compression, efficient neural networks
+- **Machine Learning Systems:** deep learning inference, inference optimization, model deployment
+
+## Open Source
+
+- Creator and maintainer of [midea-ai/Aidget](https://github.com/midea-ai/Aidget), a compact C inference engine and model deployment toolchain for resource-constrained edge devices.
+
+## Selected Projects
+
+- [midea-ai/Aidget](https://github.com/midea-ai/Aidget) — Efficient edge inference for CPUs and MCUs with limited compute and memory resources.
+- [sgemm_riscv](https://github.com/Zhao-Dongyu/sgemm_riscv) — Step-by-step SGEMM optimization on RISC-V.
+- [mla-profile](https://github.com/Zhao-Dongyu/mla-profile) — Profiling and analysis of MLA implementations and optimization strategies.
+- [Digital-Image-Processing](https://github.com/Zhao-Dongyu/Digital-Image-Processing) — C/C++ implementations covering JPEG, FFT, image restoration, retrieval, and other image-processing techniques.
+
+## Publications / Technical Writing
+
+- [π 模型的实践和结构解析](https://zhao-dongyu.github.io/2026/01/28/128_Pi_model/) — Practical deployment, acceleration, and architecture analysis of π-series vision-language-action models.
+- [FlashMLA 源码分析](https://zhao-dongyu.github.io/2025/02/24/117_FlashMLA/) — Source-level analysis of FlashMLA's CUDA kernels and scheduling strategy.
+- [Marlin 代码解读](https://zhao-dongyu.github.io/2024/09/26/104_marlin/) — An in-depth walkthrough of a high-performance W4A16 quantized GEMM kernel.
+- [Optimize SGEMM on RISC-V Platform](https://zhao-dongyu.github.io/2024/02/26/103_sgemm_riscv_en/) — Step-by-step SGEMM optimization, from bandwidth analysis to vectorized kernels.
+
+[More technical writing →](https://zhao-dongyu.github.io/)
+
 <!-- 贪吃蛇代码贡献图 -->
 
 <!-- <div align="center"><img src="./pic/github-snake.svg" /></div> -->
@@ -26,17 +54,6 @@
 </p>
 
 
-<!-- GitHub数据统计 -->
-<!-- <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
-<br> -->
-<div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Zhao-Dongyu&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=dark&count_private=true" /></div>
-<br>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Zhao-Dongyu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br>
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
